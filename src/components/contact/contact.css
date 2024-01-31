@@ -1,0 +1,5 @@
+
+.contact_container{
+    grid-template-columns: 4fr 8fr;
+    column-gap: 1.875rem;
+}
