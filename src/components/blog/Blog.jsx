@@ -18,7 +18,7 @@ const Blog = () => {
               </div>
             </div>
             <div className="skills_data py-10">
-              <div className="skills_title">
+              <div className="md:skills_title">
                 <h3 className="skills_name">Css,Sass,Bootstarp,Tailwind,Materialize</h3>
                 <span className="skills_number">Advanced</span>
               </div>
@@ -27,7 +27,7 @@ const Blog = () => {
               </div>
             </div>
             <div className="skills_data py-10">
-              <div className="skills_title">
+              <div className="md:skills_title">
                 <h3 className="skills_name">JavaScript,TypeScript,JQuery</h3>
                 <span className="skills_number">Advanced</span>
               </div>
@@ -36,7 +36,7 @@ const Blog = () => {
               </div>
             </div>
             <div className="skills_data py-10">
-              <div className="skills_title">
+              <div className="md:skills_title">
                 <h3 className="skills_name">UI/UX in Figma,Adobe XD</h3>
                 <span className="skills_number">Advanced</span>
               </div>
@@ -46,7 +46,7 @@ const Blog = () => {
               
             </div>
             <div className="skills_data py-10">
-              <div className="skills_title">
+              <div className="md:skills_title">
                 <h3 className="skills_name">React</h3>
                 <span className="skills_number">Advanced</span>
               </div>
@@ -55,7 +55,7 @@ const Blog = () => {
               </div>
             </div>
             <div className="skills_data py-10">
-              <div className="skills_title">
+              <div className="md:skills_title">
                 <h3 className="skills_name">Next.js</h3>
                 <span className="skills_number">Regular</span>
               </div>

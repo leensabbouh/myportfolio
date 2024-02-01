@@ -46,12 +46,12 @@ const Sidebar = () => {
               </a>
             </li>
             <li className="nav_item">
-              <a href="#service" className="nav_link">
+              <a href="#resume" className="nav_link">
                 <i className="icon-briefcase"></i>
               </a>
             </li>
             <li className="nav_item">
-              <a href="#resume" className="nav_link">
+              <a href="#ed" className="nav_link">
                 <i className="icon-graduation"></i>
               </a>
             </li>
@@ -75,7 +75,7 @@ const Sidebar = () => {
         </section>
       <nav className="nav DESKTOP-MENU fixed aside hidden space-x-8 lg:flex">
         <div className="nav_menu">
-          <ul className="nav_list">
+        <ul className="nav_list">
             <li className="nav_item">
               <a href="#home" className="nav_link">
                 <i className="icon-home"></i>
@@ -87,12 +87,12 @@ const Sidebar = () => {
               </a>
             </li>
             <li className="nav_item">
-              <a href="#service" className="nav_link">
+              <a href="#resume" className="nav_link">
                 <i className="icon-briefcase"></i>
               </a>
             </li>
             <li className="nav_item">
-              <a href="#resume" className="nav_link">
+              <a href="#ed" className="nav_link">
                 <i className="icon-graduation"></i>
               </a>
             </li>
